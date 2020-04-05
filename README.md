@@ -1,4 +1,4 @@
-# week-tiga
+# HACKTIV8 - PHASE0 - WEEK TIGA
 
 # HOME
 # Hacktiv8 Phase 0 Week 3: Arrays and Logics
